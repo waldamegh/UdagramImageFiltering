@@ -1,1 +1,1 @@
-# UdagramImageFiltering
+# Udagram Image Filtering Microservice
